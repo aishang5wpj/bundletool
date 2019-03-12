@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="bundletool-all-0.9.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/bundletool-all-0.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/bundletool-all-0.9.0.jar!/" />
+      <root url="file://$PROJECT_DIR$/../bundletool-0.9.0/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../bundletool-0.9.0/src/test/java" />
+      <root url="file://$PROJECT_DIR$/soucecode/bundletool-0.9.0/src/main/java" />
+      <root url="file://$PROJECT_DIR$/soucecode/bundletool-0.9.0/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
