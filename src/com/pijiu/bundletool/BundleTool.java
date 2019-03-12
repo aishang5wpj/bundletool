@@ -2,7 +2,7 @@ package com.pijiu.bundletool;
 
 import com.android.tools.build.bundletool.BundleToolMain;
 
-public class Bundle {
+public class BundleTool {
 
     public static void main(String[] args) {
 
